@@ -1,11 +1,22 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
+using static Lab3.SinhVien;
 
 namespace Lab3
 {
     internal class Program
     {
 
+        public class myComparer : IComparer
+        {
+            public int Compare(object x, object y)
+            {
+               SinhVien sv1 = (SinhVien) x;
+               SinhVien sv2 = (SinhVien) y;
+                return sv1.Ten.CompareTo(sv2.Ten);
+            }
+        }
 
         public static SinhVien FindSt(string ten, ArrayList dsSv)
         {
@@ -81,11 +92,15 @@ namespace Lab3
 
         public static void sortSt(ArrayList dsSv)
         {
-            foreach (SinhVien sv in dsSv)
+            dsSv.Sort(new myComparer());
+            foreach (SinhVien i in dsSv)
             {
-                dsSv.Sort();
+                Console.WriteLine(i + "");
             }
+            
         }
+              
+        
         static void Main(string[] args)
         {
             ArrayList dsSv = new ArrayList();
@@ -148,7 +163,7 @@ namespace Lab3
             //editSt(145, dsSv, new SinhVien(145, "Ha", "Nguyen", new DateTime(2002, 10, 11), "Nam", "Phu Quoc", dsMon2));
 
 
-            Console.WriteLine("saasssa");
+            sortSt(dsSv);
 
         }
     }

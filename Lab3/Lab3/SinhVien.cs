@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab3
 {
-    internal class SinhVien
+    internal class SinhVien 
     {
         private int maSv;
         private string hoLot;
@@ -40,6 +40,8 @@ namespace Lab3
         public string DiaChi { get => diaChi; set => diaChi = value; }
         public ArrayList DsMonHoc { get => dsMonHoc; set => dsMonHoc = value; }
 
+
+
         public override string ToString()
         {
             String mon = "";
@@ -49,5 +51,6 @@ namespace Lab3
             }
             return "Ma sv: "+MaSv + " Ho: " + HoLot + " Ten: " + Ten + " Ngay Sinh: " + NgaySinh.ToString() + " Gioi tinh: " + GioiTinh + " Dia chi: " + DiaChi +" Mon hoc: " + mon;
         }
+
     }
 }
