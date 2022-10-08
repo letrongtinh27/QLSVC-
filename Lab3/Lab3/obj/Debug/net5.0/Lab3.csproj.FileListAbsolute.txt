@@ -1,0 +1,16 @@
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\bin\Debug\net5.0\Lab3.exe
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\bin\Debug\net5.0\Lab3.deps.json
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\bin\Debug\net5.0\Lab3.runtimeconfig.json
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\bin\Debug\net5.0\Lab3.runtimeconfig.dev.json
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\bin\Debug\net5.0\Lab3.dll
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\bin\Debug\net5.0\Lab3.pdb
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\obj\Debug\net5.0\Lab3.csproj.AssemblyReference.cache
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\obj\Debug\net5.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfo.cs
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\obj\Debug\net5.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\obj\Debug\net5.0\Lab3.dll
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\obj\Debug\net5.0\refint\Lab3.dll
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\obj\Debug\net5.0\Lab3.pdb
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\obj\Debug\net5.0\Lab3.genruntimeconfig.cache
+C:\Users\tinh\Desktop\University_2022-2023\LapTrinh.net\Lab3\Lab3\obj\Debug\net5.0\ref\Lab3.dll
